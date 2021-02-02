@@ -16,6 +16,7 @@ in
         "aarch64-linux"
         "armv7l-linux"
         "x86_64-linux"
+        "i686-linux"
       ];
       description = ''
         Defines the kind of target architecture system the device is.

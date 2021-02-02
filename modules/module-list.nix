@@ -9,6 +9,7 @@
   ./documentation.nix
   ./generated-filesystems.nix
   ./hardware-allwinner.nix
+  ./hardware-atom.nix
   ./hardware-exynos.nix
   ./hardware-generic.nix
   ./hardware-mediatek.nix
